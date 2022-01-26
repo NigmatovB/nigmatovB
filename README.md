@@ -58,3 +58,8 @@
 &nbsp; <a href="mailto:nigmatovbekzod3770@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://t.me/Bekzod_3770" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
 </p>
+<br>
+<br>
+![footer](https://www.nationsonline.org/gallery/Uzbekistan/Registan-Samarkand-Uzbekistan.jpg)
+
+
