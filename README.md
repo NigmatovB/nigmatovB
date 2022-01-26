@@ -60,6 +60,3 @@
 </p>
 <br>
 <br>
-![footer](https://www.nationsonline.org/gallery/Uzbekistan/Registan-Samarkand-Uzbekistan.jpg)
-
-
