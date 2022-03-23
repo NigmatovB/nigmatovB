@@ -31,6 +31,11 @@
 </p>
 <br>
 <p>
+  <code><img width="15%" src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter"></code>
+</p>
+<br>
+<p>
   <code><img width="15%" src="https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=bootstrap"></code>
   <code><img width="15%" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
   <code><img width="15%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
