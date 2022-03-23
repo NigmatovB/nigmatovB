@@ -31,8 +31,8 @@
 </p>
 <br>
 <p>
-  <code><img width="15%" src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter"></code>
 </p>
 <br>
 <p>
