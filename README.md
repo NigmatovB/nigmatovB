@@ -5,10 +5,6 @@
   <h2> Hey there! 👋</h2>
 </p>
 <br>
-<p>
-  <img align="right" alt="GIF" src="https://i.imgur.com/OCts0FU.gif" width="450" height="200"/>
-</p>
-
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br>
 <br>
