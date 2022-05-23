@@ -4,8 +4,6 @@
   <h2> Hey there! 👋</h2>
 </p><br>
 <h3> I'm Software Engineer from Uzbekistan. </h3>
-<br><br>
-- 📫 How to reach me: Nigmatovbekzod3770@gmail.com<br>
-<br><br><br>
 <br>
+- 📫 How to reach me: Nigmatovbekzod3770@gmail.com<br>
 <br>
