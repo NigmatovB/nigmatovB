@@ -12,39 +12,6 @@
 - 📫 How to reach me: Nigmatovbekzod3770@gmail.com<br>
 <br>
 <br>
-<hr>
-<br>
-<br>
-<b> <h2 align="center">⚡Languages and Technologies</h2> </b>
-<p align="center">  
-
-![macOs](https://img.shields.io/badge/MacOs-E95420?style=flat-square&logo=macos&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-E95420?style=flat-square&logo=windows&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white)
-<p>
-  <code><img width="15%" height="10%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
-  <code><img width="15%" height="12%"  src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"></code>
-</p>
-<br>
-<p>
-  <code><img width="15%" height="10%" src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart"></code>
-  <code><img width="15%" height="12%" src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=Flutter"></code>
-</p>
-<br>
-<p>
-  <code><img width="15%" src="https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=bootstrap"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
-  <code><img width="15%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
-</p>
-
-![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-</p>
 <br>
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
