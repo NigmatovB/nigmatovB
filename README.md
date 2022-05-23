@@ -5,7 +5,6 @@
 </p><br>
 <h3> I'm Software Engineer from Uzbekistan. </h3>
 <br><br>
-- 🔋  I’m currently learning <b>Node.js</b> .<br>
 - 📫 How to reach me: Nigmatovbekzod3770@gmail.com<br>
 <br><br><br>
 <br>
